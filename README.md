@@ -4,8 +4,6 @@
 
 Bu proje; hastane içi idari, klinik ve hasta kabul süreçlerini dijital ortamda uçtan uca yönetmek amacıyla C# (.NET 8 / .NET 9), Windows Forms ve SQLite teknolojileri kullanılarak geliştirilmiş kapsamlı bir Hastane Bilgi Yönetim Sistemi (HBYS) masaüstü uygulamasıdır.
 
-👨‍💻 Hazırlayanlar
-Muhammed Keleş - 230158118029
 
 🎯 Projenin Amacı ve Kapsamı
 
